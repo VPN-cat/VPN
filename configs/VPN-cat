@@ -2,11 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://t.me/vpn_cat
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: Цензура помогает против обычных людей, но бессильна против высоко мотивированных.
+#announce: Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду.
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://148c2937-fb6d-0bb8-93a8-369b1fbc9791@146.185.240.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#1.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://148c2937-fb6d-0bb8-93a8-369b1fbc9791@146.185.240.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#2.%20%3F%20152.89.244.226
-vless://148c2937-fb6d-0bb8-93a8-369b1fbc9791@146.185.240.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#3.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://148c2937-fb6d-0bb8-93a8-369b1fbc9791@146.185.240.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#4.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://148c2937-fb6d-0bb8-93a8-369b1fbc9791@146.185.240.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#5.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://dbebcaef-4cc8-01f4-888b-2962aae2e5d3@109.120.189.133:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#1.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
