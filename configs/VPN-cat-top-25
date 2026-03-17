@@ -2,31 +2,31 @@
 #profile-update-interval: 1
 #support-url: https://t.me/vpn_cat
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками.
+#announce: Не все мысли проходят через мозг, некоторые — только через цензуру.
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.157.118:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http%2F1.1%2Ch2#1.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.157.118:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http/1.1,h2#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.157.118:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&sni=lk-cdn.deploy-assure.ru#3.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://66b78cb9-c0a7-07d0-8b3c-d10d03fa0cb4@212.193.157.118:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.157.118:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http/1.1,h2#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http/1.1,h2#6.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&sni=lk-cdn.deploy-assure.ru#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http/1.1,h2#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http/1.1,h2#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.157.118:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http/1.1,h2#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.157.118:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http/1.1,h2#11.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.157.118:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http/1.1,h2#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.157.118:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http/1.1,h2#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://monacoVPN@172.65.111.43:22?flow=&headerType=http&path=%2F%40monacoVPN%40monacoVPN%40monacoVPN%40monacoVPN&type=tcp#1.%20%F0%9F%87%A8%F0%9F%87%AD%20Switzerland
+vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http/1.1,h2#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZGdPNkZ0UEYyOTR3RHJoUElxVHJj@104.192.227.163:443#3.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&sni=lk-cdn.deploy-assure.ru#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http/1.1,h2#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http%2F1.1%2Ch2#6.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http/1.1,h2#7.%20%3F%20185.86.144.231
+vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http/1.1,h2#8.%20%3F%20185.86.144.231
+vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&security=tls&sni=lk-cdn.deploy-assure.ru&fp=qq&alpn=http%2F1.1%2Ch2&insecure=0&allowInsecure=0&type=ws&host=lk-cdn.deploy-assure.ru&path=%2F%2F#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&sni=lk-cdn.deploy-assure.ru#10.%20%3F%20185.86.144.231
+vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&sni=lk-cdn.deploy-assure.ru#11.%20%3F%20185.86.144.231
+vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http/1.1,h2#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http/1.1,h2#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
 vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http/1.1,h2#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://monacoVPN@172.65.111.43:22?flow=&headerType=http&path=%2F%40monacoVPN%40monacoVPN%40monacoVPN%40monacoVPN&type=tcp#15.%20%F0%9F%87%A8%F0%9F%87%AD%20Switzerland
-vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http/1.1,h2#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@lk-cdn.deploy-assure.ru:443?type=ws&security=tls&encryption=none&fp=qq&sni=lk-cdn.deploy-assure.ru&path=//&host=lk-cdn.deploy-assure.ru&alpn=http/1.1%2Ch2#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.157.118:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&sni=lk-cdn.deploy-assure.ru#18.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&security=tls&sni=lk-cdn.deploy-assure.ru&insecure=0&allowInsecure=0&type=ws&host=lk-cdn.deploy-assure.ru&path=%2F%2F#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.157.118:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http%2F1.1%2Ch2#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http/1.1,h2#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&sni=lk-cdn.deploy-assure.ru#22.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.157.118:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http/1.1,h2#23.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.157.118:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http%2F1.1%2Ch2#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.157.118:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http%2F1.1%2Ch2#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http/1.1,h2#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&sni=lk-cdn.deploy-assure.ru#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@lk-cdn.deploy-assure.ru:443?encryption=none&security=tls&sni=lk-cdn.deploy-assure.ru&fp=qq&alpn=http%2F1.1%2Ch2&insecure=0&allowInsecure=0&type=ws&host=lk-cdn.deploy-assure.ru&path=%2F%2F#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http/1.1,h2#18.%20%3F%20185.86.144.231
+vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&sni=lk-cdn.deploy-assure.ru#19.%20%3F%20185.86.144.231
+vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&sni=lk-cdn.deploy-assure.ru#20.%20%3F%20185.86.144.231
+vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@lk-cdn.deploy-assure.ru:443?type=ws&security=tls&encryption=none&fp=qq&sni=lk-cdn.deploy-assure.ru&path=//&host=lk-cdn.deploy-assure.ru&alpn=http/1.1%2Ch2#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http/1.1,h2#22.%20%3F%20185.86.144.231
+vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http/1.1,h2#23.%20%3F%20185.86.144.231
+vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=qq&sni=lk-cdn.deploy-assure.ru&alpn=http/1.1,h2#24.%20%3F%20185.86.144.231
+vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&sni=lk-cdn.deploy-assure.ru#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
