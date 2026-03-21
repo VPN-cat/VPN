@@ -2,8 +2,10 @@
 #profile-update-interval: 1
 #support-url: https://t.me/vpn_cat
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками.“ t.me/vpn_cat
+#announce: „Цензура помогает против обычных людей, но бессильна против высоко мотивированных.“ t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://6d225dfa-2020-4af6-8ac2-a0d410358b9b@185.119.59.229:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ozon.ru&fp=random&security=reality&pbk=5Ry37vee4hlif10wg8HAL5D2cetUHRHnVpqOWrImfyw&sid=302aa10cd4fd075c&packetEncoding=xudp#1.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://ac100003-2495-11f1-9b09-02427b93bf7f@217.16.31.110:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vkvideo.ru&fp=random&security=reality&pbk=V9nskrX50np-tmBskW9j0D2COba38evcz4GgPvkM8BU&sid=c24fa9162817fcda&packetEncoding=xudp#2.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://e1c3b1b5-5d8f-000a-a999-b442762dc245@89.208.223.111:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sbrf-cdn342.ru&fp=random&security=reality&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111&packetEncoding=xudp#1.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://6d225dfa-2020-4af6-8ac2-a0d410358b9b@185.119.59.229:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ozon.ru&fp=random&security=reality&pbk=5Ry37vee4hlif10wg8HAL5D2cetUHRHnVpqOWrImfyw&sid=302aa10cd4fd075c&packetEncoding=xudp#2.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://ac100003-2495-11f1-9b09-02427b93bf7f@217.16.31.110:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vkvideo.ru&fp=random&security=reality&pbk=V9nskrX50np-tmBskW9j0D2COba38evcz4GgPvkM8BU&sid=c24fa9162817fcda&packetEncoding=xudp#3.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://5f98c4f8-19f4-471d-8ed5-10c0550c0423@150.241.74.185:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&fp=chrome&security=reality&pbk=cqsvMHPf2pc9Z54Q-apTtcYfesNjjPSecAKaKrsoL0Y&sid=4d94c4fb&packetEncoding=xudp#4.%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia%200.73%20Mb/s
