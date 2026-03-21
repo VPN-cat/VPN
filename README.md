@@ -1,5 +1,5 @@
 # VPN cat configs
-VPN cat configs - автоматически обновляющаяся коллекция конфигов VPN (V2Ray / VLESS / Hysteria / Trojan / VMess / Reality / Shadowsocks), протестированных на территории России.
+VPN cat configs - автоматически обновляющаяся коллекция конфигов VPN, протестированных на территории России.
 
 [Наш Telegram](https://t.me/+jZZ9Ze1lVVQxNmFh)
 
