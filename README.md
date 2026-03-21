@@ -1,7 +1,9 @@
 # VPN cat configs
 VPN cat configs - автоматически обновляющаяся коллекция конфигов VPN (V2Ray / VLESS / Hysteria / Trojan / VMess / Reality / Shadowsocks), протестированных на территории России.
 
-## Ссылки для вставки в VPN-клиенты (v2rayNG, Happ и т.п.)
+[Наш Telegram](https://t.me/+jZZ9Ze1lVVQxNmFh)
+
+## Ссылки для вставки в VPN-клиенты
 Все сервера:
 ```
 https://raw.githubusercontent.com/VPN-cat/VPN/refs/heads/main/configs/VPN-cat
@@ -18,6 +20,3 @@ https://raw.githubusercontent.com/VPN-cat/VPN/refs/heads/main/configs/VPN-cat-to
 ```
 https://raw.githubusercontent.com/VPN-cat/VPN/refs/heads/main/configs/VPN-cat-top-25
 ```
-
-
-[Telegram](https://t.me/vpn_cat)
