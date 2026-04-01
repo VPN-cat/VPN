@@ -2,14 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+Z669V03BrHgxZWRh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Не все мысли проходят через мозг, некоторые — только через цензуру.“ | t.me/vpn_cat
+#announce: „Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://339d14c6-64aa-49fe-bd5d-d692a9d8dca0@109.107.168.174:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=OeI9d6vCHM799CQYAkxwJZy1G6aqdjyoN9Mw2COCIXQ&security=reality&sni=google.com&type=tcp#1.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://5e1d0981-0197-4105-8f16-53bcc245f8f3@mkdc.idealvpn.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=2p_Otz_1vbBD1hB5GxPf95XQdeQf-d51IKvnBaa7uSc&sid=dc4aa6635008a9ae&packetEncoding=xudp#2.%20%F0%9F%87%A6%F0%9F%87%B1%20Albania
-vless://e014fc65-8738-415e-aa16-1d2e73f67444@ru.octanet.online:446/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=8anCePba2unuydN_k6F6E6LtrlDmLCeIqAy3hHlVryg&sid=d3e4f5&packetEncoding=xudp#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://e5cdf347-d91e-4773-8645-e1c4991ee871@tripis.ethervpn.pro:8412/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=qq&security=reality&pbk=XK84BZHm8wGcPS24VRXFUv2PC399k6KejjV0GO_J4yY&sid=058f0bcda6bf261b&packetEncoding=xudp#4.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://e5cdf347-d91e-4773-8645-e1c4991ee871@wh1.ethervpn.pro:8444/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=qq&security=reality&pbk=XK84BZHm8wGcPS24VRXFUv2PC399k6KejjV0GO_J4yY&sid=&packetEncoding=xudp#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://6d0e9ded-d23d-4ffb-b165-7bc757be84d3@141.98.190.220:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=fsbp0vmCXnkqXfD7kyb7fv8JdJBZsENkKNkJzChmo0Y&sid=9262e44c3f4093f0&sni=ads.x5.ru#6.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://5e1d0981-0197-4105-8f16-53bcc245f8f3@kopl.whitevpn.sbs:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=AKVwTarcKnFEPfsdVtlUOQ2G9pT3KloTomNtegy0Pnc&sid=dc4aa6635008a9ae&packetEncoding=xudp#7.%20%F0%9F%87%A6%F0%9F%87%B1%20Albania
-vless://5e1d0981-0197-4105-8f16-53bcc245f8f3@kopl.whitevpn.sbs:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=AKVwTarcKnFEPfsdVtlUOQ2G9pT3KloTomNtegy0Pnc&sid=dc4aa6635008a9ae&packetEncoding=xudp#8.%20%F0%9F%87%A6%F0%9F%87%B1%20Albania
