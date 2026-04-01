@@ -2,15 +2,13 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+Z669V03BrHgxZWRh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками.“ | t.me/vpn_cat
+#announce: „Цензура помогает против обычных людей, но бессильна против высоко мотивированных.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://4b5346fb-fa45-4f93-ac2a-57271559539c@uk.plus-two.online:9443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&sid=&packetEncoding=xudp#1.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-trojan://bpb-trojan@russia.com:443?security=tls&sni=bpb.wdgg1979.nyc.mn&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=bpb.wdgg1979.nyc.mn&path=%2Ftr%3Fed%3D2560#2.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://713a5d33-50db-4a44-aff4-56b273c207da@4-node-midas.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.intel.com&fp=chrome&security=reality&pbk=jHFbh_fa3jmZfcZZMmN3xME4JLGoDFHC8_X1EZHK8kU&sid=0bc73dd1f045&packetEncoding=xudp#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://bd3df1b5-a61a-4e99-a1ff-64dc7811b862@83.147.252.18:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=NAi30wRFr5LW2_TO6KOk2ta1kWSDbsS8xTgB1FVNkik&sid=6ba85179e30d4fc2&packetEncoding=xudp#4.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://4b5346fb-fa45-4f93-ac2a-57271559539c@us.plus-two.ru:9443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&sid=&packetEncoding=xudp#5.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://cb54deb5-56e8-4a00-84be-246630c1e15f@193.37.71.20:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=xPcD0sXKZHYwuNUMhZVQ-1OeRY-j2OjAxn0BqikZr1o&sid=&packetEncoding=xudp#6.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://cb54deb5-56e8-4a00-84be-246630c1e15f@vl.vcloudn.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vl.vcloudn.com&fp=random&security=reality&pbk=Os2D7nFxb5yKX4gQEUXsbTN4pBMCo-U47OJg9dhqDms&sid=b7f990b5d50a7ae6&packetEncoding=xudp#7.%20%F0%9F%87%B1%F0%9F%87%B9%20Lithuania
-vless://4b5346fb-fa45-4f93-ac2a-57271559539c@nl.plusonevpn.com:9443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&sid=&packetEncoding=xudp#8.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://4b5346fb-fa45-4f93-ac2a-57271559539c@po.plus-two.ru:9443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&sid=&packetEncoding=xudp#9.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://713a5d33-50db-4a44-aff4-56b273c207da@4-node-midas.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.intel.com&fp=chrome&security=reality&pbk=jHFbh_fa3jmZfcZZMmN3xME4JLGoDFHC8_X1EZHK8kU&sid=0bc73dd1f045&packetEncoding=xudp#1.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+trojan://trojan@152.53.45.251:8888?security=tls&sni=jflsjlaf.pages.dev&insecure=0&allowInsecure=0&type=ws&host=jflsjlaf.pages.dev&path=%2F#2.%20%F0%9F%87%A6%F0%9F%87%B9%20Austria
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@188.253.27.63:444?security=tls&type=ws&path=%2Fdanfeng&host=snippet.danfeng.dedyn.io&alpn=http%2F1.1%0A&sni=snippet.danfeng.dedyn.io&fp=chrome#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+trojan://trojan@152.53.45.251:8888?security=tls&sni=jflsjlaf.pages.dev&insecure=1&allowInsecure=1&type=ws&host=jflsjlaf.pages.dev&path=%2F%2F#4.%20%F0%9F%87%A6%F0%9F%87%B9%20Austria
+trojan://trojan@152.53.45.251:8888?security=tls&sni=jflsjlaf.pages.dev&type=ws&path=%25252F&Host=jflsjlaf.pages.dev#5.%20%F0%9F%87%A6%F0%9F%87%B9%20Austria
+vless://4b5346fb-fa45-4f93-ac2a-57271559539c@us.plus-two.ru:9443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&sid=&packetEncoding=xudp#6.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vmess://eyJ2IjoiMiIsInBzIjoiNy4gXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMiLCJhZGQiOiJjZzFjMDIud2FpbWFvamQuY29tIiwicG9ydCI6IjQ0MyIsImlkIjoiNmZjODRmZDItMDQ0Mi00MDVmLWJhYTctNmRhZjY2YjgxYTEwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJjZzFjMDIud2FpbWFvamQuY29tIiwicGF0aCI6Ii9hcGkvdjEvZ3JhcGhxbCJ9
