@@ -2,11 +2,11 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+Z669V03BrHgxZWRh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Цензура помогает против обычных людей, но бессильна против высоко мотивированных.“ | t.me/vpn_cat
+#announce: „Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://55868c01-dcbf-43a7-ae8c-694b3e60d580@185.130.113.8:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=5ka-cdn.x5static.net&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#1.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://4b5346fb-fa45-4f93-ac2a-57271559539c@us.plus-two.ru:9443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&sid=&packetEncoding=xudp#2.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://b117bc18-0be3-4a75-87b7-8426cc71baba@185.130.113.8:443?security=reality&sni=5ka-cdn.x5static.net&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://ea57093f-78d1-4444-83ff-325a0864abbf@185.130.113.8:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=5ka-cdn.x5static.net&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#4.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://4b07f679-1fc8-4184-92c9-b87a23d2e700@212.233.122.88:443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&extra=null&fp=chrome&sni=max.fastexte.pro&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=15affa0af66dfc79#5.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://f7983d2c-c25d-42dd-b6e5-4eccac48eee7@max3r.skystreamgame.com:8080?security=reality&type=xhttp&headerType=&path=%2F&host=&flow=&mode=auto&sni=ozon.ru&fp=&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&sid=6d6f13013d3e1d0c#1.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@178.173.248.248:443?security=tls&type=ws&path=%2Fdanfeng&host=snippet.danfeng.dedyn.io&alpn=http%2F1.1%0A&sni=snippet.danfeng.dedyn.io&fp=chrome#2.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://4b07f679-1fc8-4184-92c9-b87a23d2e700@109.120.182.10:443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&extra=null&fp=chrome&sni=vklivevk.enotfast.net&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=15affa0af66dfc79#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://1547e10a-a49e-48e3-94c7-90136b8069cc@109.120.182.10:443?encryption=none&type=xhttp&security=reality&path=/&mode=auto&extra=null&fp=chrome&sni=vklivevk.enotfast.net&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=15affa0af66dfc79#4.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://5c14a114-224a-4671-a57c-bdb9e2a8cff5@cdn33.api-rutube.ru:2095/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ozon.ru&security=reality&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&sid=#5.%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey
